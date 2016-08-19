@@ -1,0 +1,3 @@
+media.db is a SQLite database.
+
+The one attached is the one you should get initialy.
